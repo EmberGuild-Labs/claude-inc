@@ -1,0 +1,12 @@
+{
+  "name": "claude-inc",
+  "description": "Install Claude Inc: a company of departments for Claude Code.",
+  "owner": { "name": "Claude Inc contributors" },
+  "plugins": [
+    {
+      "name": "company",
+      "source": "./",
+      "description": "/company router, seven departments (including /team) and the agents behind them."
+    }
+  ]
+}

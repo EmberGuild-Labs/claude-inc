@@ -1,0 +1,10 @@
+{
+  "name": "company",
+  "version": "1.0.0",
+  "description": "Claude Inc: run your work like a small company. A /company router plus departments for incidents (/war-room), R&D feasibility (/skunkworks), game design (/studio), portfolio review (/board-meeting), research (/research-desk), homelab ops (/ops-center) and a full software team (/team), sharing one org chart, project ledger and memo format.",
+  "author": { "name": "Claude Inc contributors" },
+  "license": "MIT",
+  "homepage": "https://github.com/EmberGuild-Labs/claude-inc",
+  "repository": "https://github.com/EmberGuild-Labs/claude-inc",
+  "keywords": ["company", "departments", "team", "workflow", "agents", "incident-response", "research", "planning"]
+}
